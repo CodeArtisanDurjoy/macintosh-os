@@ -18,13 +18,13 @@
 
 ## 🔥 Live Demo
 
-👉 [macintosh-os.vercel.app](https://macintosh-os.vercel.app)
+👉 [mac-os.vercel.app](https://mac-os.vercel.app)
 
 ---
 
 ## 📸 Preview
 
-[![Macintosh OS Screenshot](./snapshot.png)](https://macintosh-os.vercel.app)
+[![Macintosh OS Screenshot](./snapshot.png)](https://mac-os.vercel.app)
 
 ---
 
@@ -124,3 +124,4 @@ Contributions are welcome! Feel free to:
 ---
 
 *Made with 💖 by mdfoysalcysec — go ahead, bring retro to the web!*
+
